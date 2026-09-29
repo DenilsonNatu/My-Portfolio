@@ -57,7 +57,7 @@ export const Hero: React.FC = () => {
                 <p className="text-sm sm:text-base text-slate-500 dark:text-slate-400 mt-1">{t.hero.stats.projects}</p>
               </div>
               <div>
-                <p className="text-3xl sm:text-4xl font-bold font-mono text-slate-900 dark:text-white">15+</p>
+                <p className="text-3xl sm:text-4xl font-bold font-mono text-slate-900 dark:text-white">3</p>
                 <p className="text-sm sm:text-base text-slate-500 dark:text-slate-400 mt-1">{t.hero.stats.collegeProjects}</p>
               </div>
             </div>
