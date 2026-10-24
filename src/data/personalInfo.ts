@@ -13,10 +13,12 @@ export const personalInfo: PersonalInfo = {
     en: 'Junior Frontend Developer focused on building responsive web and application interfaces based on user needs.',
   },
 
+  
   summary: {
-    id: 'Mahasiswa tingkat akhir S1 Teknologi Informasi di Universitas Pendidikan Nasional dan Junior Frontend Developer dengan pengalaman dalam pengembangan serta penyesuaian website untuk kebutuhan client dan perusahaan. Memiliki pengalaman menggunakan React.js, TypeScript, JavaScript, HTML, CSS, dan Flutter, serta memahami dasar RESTful API, MySQL, dan Git.',
-    en: 'Final-year Information Technology student at Universitas Pendidikan Nasional and Junior Frontend Developer with experience in developing and customizing websites for client and company needs. Experienced with React.js, TypeScript, JavaScript, HTML, CSS, and Flutter, with a basic understanding of RESTful APIs, MySQL, and Git.',
+    id: 'Lulusan S1 Teknologi Informasi dari Universitas Pendidikan Nasional dan Junior Frontend Developer dengan pengalaman dalam mengembangkan serta menyesuaikan website untuk kebutuhan klien dan perusahaan. Menguasai React.js, TypeScript, JavaScript, HTML, CSS, dan Flutter, serta memahami integrasi RESTful API, pengembangan backend, pengelolaan database MySQL, dan penggunaan Git.',
+    en: 'Information Technology graduate from Universitas Pendidikan Nasional and Junior Frontend Developer with experience in developing and customizing websites to meet client and company requirements. Skilled in React.js, TypeScript, JavaScript, HTML, CSS, and Flutter, with an understanding of RESTful API integration, backend development, MySQL database management, and Git.',
   },
+
 
   email: 'natudenilson@gmail.com',
 
@@ -29,19 +31,19 @@ export const personalInfo: PersonalInfo = {
   about: {
     paragraphs: {
       id: [
-        'Saya adalah mahasiswa tingkat akhir S1 Teknologi Informasi di Universitas Pendidikan Nasional dan Junior Frontend Developer yang memiliki pengalaman dalam mengembangkan serta menyesuaikan website sesuai kebutuhan client dan perusahaan.',
+        'Saya adalah lulusan S1 Teknologi Informasi dari Universitas Pendidikan Nasional dan Junior Frontend Developer yang memiliki pengalaman dalam mengembangkan serta menyesuaikan website sesuai kebutuhan klien dan perusahaan.',
 
-        'Saya memiliki pengalaman menggunakan React.js, TypeScript, JavaScript, HTML, CSS, dan Flutter dalam berbagai proyek. Selain itu, saya juga memiliki pengalaman mengembangkan dan menyesuaikan website menggunakan WordPress, Shopify, dan Liquid, serta memahami dasar integrasi RESTful API dan pengelolaan database menggunakan MySQL.',
+        'Saya memiliki pengalaman menggunakan React.js, TypeScript, JavaScript, HTML, CSS, dan Flutter dalam berbagai proyek. Saya juga berpengalaman mengembangkan dan menyesuaikan website menggunakan WordPress, Shopify, dan Liquid, serta memahami integrasi RESTful API, pengembangan backend, dan pengelolaan basis data menggunakan MySQL.',
 
-        'Saya terbiasa menggunakan Git dan GitHub dalam proses pengembangan serta memiliki kemampuan dalam analisis, pemecahan masalah, komunikasi, dan kerja sama tim. Saya juga memiliki kemauan untuk terus belajar, beradaptasi dengan lingkungan baru, dan mengembangkan kompetensi di bidang teknologi informasi.',
+        'Saya terbiasa menggunakan Git dan GitHub dalam proses pengembangan serta memiliki kemampuan analisis, pemecahan masalah, komunikasi, dan kerja sama tim yang baik. Saya memiliki semangat belajar yang tinggi, mampu beradaptasi dengan lingkungan baru, dan terus mengembangkan keterampilan untuk menghasilkan solusi digital yang fungsional dan sesuai kebutuhan pengguna.',
       ],
 
       en: [
-        'I am a final-year Information Technology student at Universitas Pendidikan Nasional and a Junior Frontend Developer with experience in developing and customizing websites based on client and company requirements.',
+        'I am an Information Technology graduate from Universitas Pendidikan Nasional and a Junior Frontend Developer with experience in developing and customizing websites to meet client and company requirements.',
 
-        'I have experience working with React.js, TypeScript, JavaScript, HTML, CSS, and Flutter across various projects. I also have experience developing and customizing websites using WordPress, Shopify, and Liquid, along with a basic understanding of RESTful API integration and MySQL database management.',
+        'I have experience working with React.js, TypeScript, JavaScript, HTML, CSS, and Flutter across various projects. I also have experience developing and customizing websites using WordPress, Shopify, and Liquid, along with an understanding of RESTful API integration, backend development, and MySQL database management.',
 
-        'I am familiar with using Git and GitHub throughout the development process and have strong skills in analysis, problem solving, communication, and teamwork. I am also eager to continuously learn, adapt to new environments, and further develop my skills in information technology.',
+        'I am familiar with using Git and GitHub throughout the development process and possess strong analytical, problem-solving, communication, and teamwork skills. I am eager to learn, adapt to new environments, and continuously improve my technical skills to build functional digital solutions that meet user needs.',
       ],
     },
 
